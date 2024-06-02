@@ -1,0 +1,62 @@
+
+header{
+    background: #CD5334;
+    padding: 20px;
+    color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url("../css/bg-2.png");
+    margin: 10px;
+}
+
+.añadirP{
+    background: #fff;
+    margin: 20px 0px 0px 0px;
+    padding: 20px ;
+}
+.productos{
+    background: #fff;
+    margin: 20px 0px 0px;
+    padding: 20px ;
+    font-weight: 600;
+}
+
+textarea{
+    height: 110px;
+    resize: none;
+}
+
+.formulario-label{
+    display: block;
+    font-weight: 600;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.formulario-input{
+    width: 100%;
+    background: #fff;
+    border: 1px solid #CD5334 ;
+    border-radius: 3px;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 40px 0 10px;
+    transition: .3s ease all;
+}
+.formulario-btn{
+    height: 45px;
+    width: 50%;
+    border-radius: 3px;
+    border: 1px solid #CD5334;
+    color: #CD5334;   
+}
+.formulario-btn:hover{
+    background:#CD5334;
+    color: #fff;
+    border-color: #CD5334;
+}
+.card{
+    border-color: #CD5334;
+}
+
